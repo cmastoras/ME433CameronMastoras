@@ -1,6 +1,6 @@
-#include<xc.h>           // processor SFR definitions
+  #include<xc.h>           // processor SFR definitions
 #include<sys/attribs.h>  // __ISR macro
-
+#include <stdio.h>
 // DEVCFG0
 #pragma config DEBUG = OFF // disable debugging
 #pragma config JTAGEN = OFF // disable jtag
@@ -32,6 +32,10 @@
 #pragma config PMDL1WAY = OFF// allow multiple reconfigurations
 #pragma config IOL1WAY = OFF // allow multiple reconfigurations
 
+void readUART1(char * string, int maxLength);
+void writeUART1(const char * string);
+
+
 int main() {
 
     __builtin_disable_interrupts(); // disable interrupts while initializing things
@@ -52,8 +56,22 @@ int main() {
     TRISAbits.TRISA4 = 0;
     TRISBbits.TRISB4 = 1;
     LATAbits.LATA4 = 0;
+    
+    U1RXRbits.U1RXR = 0b0001; // U1RX is B6
+    RPB7Rbits.RPB7R = 0b0001; // U1 TX is B7
+    
+    U1MODEbits.BRGH = 0;
+    U1BRG = ((48000000 / 115200) / 16)-1;
+    
+    U1MODEbits.PDSEL = 0;
+    U1MODEbits.STSEL = 0;
+    
+    U1STAbits.UTXEN = 1;
+    U1STAbits.URXEN = 1;
+    
+    U1MODEbits.ON = 1;
     __builtin_enable_interrupts();
-
+    char m[100];
     while (1) {
         // use _CP0_SET_COUNT(0) and _CP0_GET_COUNT() to test the PIC timing
         // remember the core timer runs at half the sysclk
@@ -79,8 +97,45 @@ int main() {
             while(_CP0_GET_COUNT() < 12000000){
                 ;
             }
-            LATAbits.LATA4 = 0;}
-        
+            LATAbits.LATA4 = 0;
+            
+            sprintf(m,"Hello World!");
+            writeUART1(m);
+        }
+              
         
     }
+}
+void readUART1(char * message, int maxLength) {
+  char data = 0;
+  int complete = 0, num_bytes = 0;
+  // loop until you get a '\r' or '\n'
+  while (!complete) {
+    if (U1STAbits.URXDA) { // if data is available
+      data = U1RXREG;      // read the data
+      if ((data == '\n') || (data == '\r')) {
+        complete = 1;
+      } else {
+        message[num_bytes] = data;
+        ++num_bytes;
+        // roll over if the array is too small
+        if (num_bytes >= maxLength) {
+          num_bytes = 0;
+        }
+      }
+    }
+  }
+  // end the string
+  message[num_bytes] = '\0';
+}
+
+// Write a character array  using UART3
+void writeUART1(const char * string) {
+  while (*string != '\0') {
+    while (U1STAbits.UTXBF) {
+      ; // wait until tx buffer isn't full
+    }
+    U1TXREG = *string;
+    ++string;
+  }
 }
