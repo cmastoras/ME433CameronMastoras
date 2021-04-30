@@ -157,6 +157,7 @@ int main() {
     int ideal_hz = 1;
     int ideal_hz2 = 2;
     int resolution = 50;
+    LATAbits.LATA4 = 1;
     while (1==1) {
       
       vf = (cos(i*2*3.14159 /(resolution))*511);
@@ -188,6 +189,11 @@ int main() {
       LATAbits.LATA0 = 1;
        
       if(i > resolution*4){
+          if(PORTAbits.RA4 == 0){
+              LATAbits.LATA4 = 1;
+          }else{
+              LATAbits.LATA4 = 0;
+          }
           i = 0;}
       _CP0_SET_COUNT(0);
       while (_CP0_GET_COUNT() < 48000000/2/ideal_hz/resolution){ 
