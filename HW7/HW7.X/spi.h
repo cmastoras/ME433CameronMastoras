@@ -3,5 +3,5 @@
 
 void initSPI();
 unsigned char spi_io(unsigned char o);
-
+void main();
 #endif // SPI__H__
