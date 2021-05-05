@@ -1,4 +1,4 @@
-  
+
 // I2C Master utilities, using polling rather than interrupts
 // The functions must be called in the correct order as per the I2C protocol
 // I2C pins need pull-up resistors, 2k-10k
@@ -88,7 +88,19 @@ void setPin(unsigned char address, unsigned char regi, unsigned char value){
     i2c_master_send(value);
     i2c_master_stop();
 }
-unsigned char readPin(unsigned char address, unsigned char regi);
+unsigned char readPin(unsigned char address, unsigned char regi){
+    
+    i2c_master_start();
+    i2c_master_send(wAdd);
+    i2c_master_send(regi);
+    i2c_master_restart();
+    i2c_master_send(rAdd);
+    unsigned char mf_thang = i2c_master_recv();
+    i2c_master_ack(1);
+    i2c_master_stop();
+    return mf_thang;
+    
+}
 
 void i2c_master_setup(void) {
     // using a large BRG to see it on the nScope, make it smaller after verifying that code works
@@ -190,16 +202,26 @@ int main() {
     setPin(wAdd,0x10,0xFF);
        
     __builtin_enable_interrupts();
-   
+    unsigned char thang;
     while(1){
+        
+        thang = readPin(rAdd,0x19);
+        
+        if (thang < 1){
+            setPin(wAdd,0x0A,0xFF);
+        }else{
+            setPin(wAdd,0x0A,0x00);
+        }
+        
         _CP0_SET_COUNT(0);
         while(_CP0_GET_COUNT() < 48000000/4){
         }
         LATAbits.LATA4 = 1;
-        setPin(wAdd,0x0A,0xFF);
-        while(_CP0_GET_COUNT() < 48000000/1){
+        //setPin(wAdd,0x0A,0xFF);
+        _CP0_SET_COUNT(0);
+        while(_CP0_GET_COUNT() < 48000000/4){
         }
-        setPin(wAdd,0x0A,0x00);
+        //setPin(wAdd,0x0A,0x00);
         LATAbits.LATA4 = 0;
           
 
