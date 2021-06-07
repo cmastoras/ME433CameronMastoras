@@ -41,8 +41,9 @@
 #pragma config PMDL1WAY = OFF// allow multiple reconfigurations
 #pragma config IOL1WAY = OFF // allow multiple reconfigurations
 
-unsigned char wAdd = 0b01000000;
-unsigned char rAdd = 0b01000001;
+//unsigned char wAdd = 0b01000000;
+unsigned char wAdd = 0b11010100;
+unsigned char rAdd = 0b11010101;
 
 void readUART1(char * string, int maxLength);
 void writeUART1(const char * string);
@@ -90,14 +91,17 @@ void setPin(unsigned char address, unsigned char regi, unsigned char value){
 }
 unsigned char readPin(unsigned char address, unsigned char regi){
     
+    
     i2c_master_start();
     i2c_master_send(wAdd);
     i2c_master_send(regi);
     i2c_master_restart();
     i2c_master_send(rAdd);
+    
     unsigned char mf_thang = i2c_master_recv();
     i2c_master_ack(1);
     i2c_master_stop();
+    
     return mf_thang;
     
 }
@@ -110,9 +114,10 @@ void i2c_master_setup(void) {
 }
 
 void i2c_master_start(void) {
+    //I2C1CONbits.PEN = 0;
     I2C1CONbits.SEN = 1; // send the start bit
     while (I2C1CONbits.SEN) {
-        ;
+        
     } // wait for the start bit to be sent
 }
 
@@ -193,17 +198,20 @@ int main() {
     i2c_master_setup();
     //Set bank to 1
     //0x0A is IOCON.bank in bank = 0 default mode
+    /*
     setPin(wAdd,0x0A,0b1000000);
     
     //Set A to be output
     setPin(wAdd,0x00,0x00);
     //Set B to be input
     setPin(wAdd,0x10,0xFF);
-       
+     */
+    int timing = 2;
     __builtin_enable_interrupts();
+    LATAbits.LATA4 = 1;
     unsigned char thang;
     while(1){
-        
+        /*
         thang = readPin(rAdd,0x19);
         
         if (thang < 1){
@@ -211,14 +219,24 @@ int main() {
         }else{
             setPin(wAdd,0x0A,0x00);
         }
+        */
+        unsigned char thang;
+        //LCD_clearScreen(MAGENTA);
+            //i2c_master_stop();
+        
+        thang = readPin(wAdd,0x0F);
+        LATAbits.LATA4 = 0;
+        if(thang != 0b01101001){
+            timing = 16;
+        }
         
         _CP0_SET_COUNT(0);
-        while(_CP0_GET_COUNT() < 48000000/4){
+        while(_CP0_GET_COUNT() < 48000000/timing){
         }
         LATAbits.LATA4 = 1;
         //setPin(wAdd,0x0A,0xFF);
         _CP0_SET_COUNT(0);
-        while(_CP0_GET_COUNT() < 48000000/4){
+        while(_CP0_GET_COUNT() < 48000000/timing){
         }
         //setPin(wAdd,0x0A,0x00);
         LATAbits.LATA4 = 0;

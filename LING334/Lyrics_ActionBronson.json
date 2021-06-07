@@ -1,0 +1,3353 @@
+{
+ "alternate_names": [
+  "The Flushing Grizzly",
+  "Ariyan Arslani",
+  "Mr. Baklava",
+  "Bronsoli\u00f1o"
+ ],
+ "api_path": "/artists/12404",
+ "description": {
+  "plain": "Ariyan Arslani (stage name Action Bronson) is a rapper from Queens known for his hedonistic lyrics, food references, comically boastful persona, quick temper and live stage antics that include wrestling moves like body slamming members of the audience. His name comes from a combination of his graffiti tagging name (Action) and actor Charles Bronson. He is also known as \u2018Bam Bam\u2019 and \u2018Bronsoli\u00f1o\u2019.\n\nAfter attending culinary school and becoming a well-known fire chef in New York, Bronson decided to focus on his rap career instead after breaking his leg in early 2011, left unable to work for months:\n\nI was arguing with the mother of my children. It was her birthday, and I was cooking for my kids, who were with me at work. I go to carry their food out, and I just slip. Crack. My life changed from that day on.\n\nBronson released a solo album, a collab album (which reached #13 on Billboard\u2019s Heatseekers Chart) and two mixtapes before Eminem\u2019s manager Paul Rosenberg took him on as a client and got him signed to Vice Records.\n\nHis first release after getting signed was the EP Saab Stories, which reached #6 on the US Rap Albums Chart and #63 on the Billboard 200. Bronson\u2019s next mixtape Blue Chips 2 followed soon after and was named one of the best mixtapes of 2013 by Rolling Stone.\n\nIn 2015, Bronson released his sophomore album (first on a major label) Mr Wonderful. It went to #7 on the Billboard 200 and its crossover hit \u201cBaby Blue\u201d reached #91 on the Hot 100. His third album Blue Chips 7000 came out two years later and reached #53. 2018\u2019s White Bronco was independently released and did not chart.\n\nOutside of music, Bronson began hosting a food & travel show in 2016 titled Fuck, That\u2019s Delicious, adding the talk show The Untitled Action Bronson Show the following year to his roster. In 2020, Bronson went on a diet that took his weight down from almost 400 pounds to under 300.\n\nBe sure to check out his verified annotations here on Genius.com!"
+ },
+ "facebook_name": "ActionBronsonMusic",
+ "followers_count": 2020,
+ "header_image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+ "id": 12404,
+ "image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+ "instagram_name": "bambambaklava",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Action Bronson",
+ "translation_artist": false,
+ "twitter_name": "actionbronson",
+ "url": "https://genius.com/artists/Action-bronson",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 10469,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 7,
+  "annotator_login": "Maboo",
+  "api_path": "/referents/6936185",
+  "classification": "accepted",
+  "fragment": "Action Bronson",
+  "id": 6936185,
+  "is_description": true,
+  "path": "/6936185/Action-bronson/Action-bronson",
+  "range": {
+   "content": "Action Bronson"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6936185/Action-bronson/Action-bronson",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/12404",
+   "context": null,
+   "id": 12404,
+   "image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+   "link_title": "Action Bronson",
+   "title": "Action Bronson",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Action-bronson"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6936185",
+    "body": {
+     "plain": "Ariyan Arslani (stage name Action Bronson) is a rapper from Queens known for his hedonistic lyrics, food references, comically boastful persona, quick temper and live stage antics that include wrestling moves like body slamming members of the audience. His name comes from a combination of his graffiti tagging name (Action) and actor Charles Bronson. He is also known as \u2018Bam Bam\u2019 and \u2018Bronsoli\u00f1o\u2019.\n\nAfter attending culinary school and becoming a well-known fire chef in New York, Bronson decided to focus on his rap career instead after breaking his leg in early 2011, left unable to work for months:\n\nI was arguing with the mother of my children. It was her birthday, and I was cooking for my kids, who were with me at work. I go to carry their food out, and I just slip. Crack. My life changed from that day on.\n\nBronson released a solo album, a collab album (which reached #13 on Billboard\u2019s Heatseekers Chart) and two mixtapes before Eminem\u2019s manager Paul Rosenberg took him on as a client and got him signed to Vice Records.\n\nHis first release after getting signed was the EP Saab Stories, which reached #6 on the US Rap Albums Chart and #63 on the Billboard 200. Bronson\u2019s next mixtape Blue Chips 2 followed soon after and was named one of the best mixtapes of 2013 by Rolling Stone.\n\nIn 2015, Bronson released his sophomore album (first on a major label) Mr Wonderful. It went to #7 on the Billboard 200 and its crossover hit \u201cBaby Blue\u201d reached #91 on the Hot 100. His third album Blue Chips 7000 came out two years later and reached #53. 2018\u2019s White Bronco was independently released and did not chart.\n\nOutside of music, Bronson began hosting a food & travel show in 2016 titled Fuck, That\u2019s Delicious, adding the talk show The Untitled Action Bronson Show the following year to his roster. In 2020, Bronson went on a diet that took his weight down from almost 400 pounds to under 300.\n\nBe sure to check out his verified annotations here on Genius.com!"
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6936185,
+    "pinned": false,
+    "share_url": "https://genius.com/6936185",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6936185/Action-bronson/Action-bronson",
+    "verified": false,
+    "votes_total": 48,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.9682997118155618,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1884245",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/580d4987e62dee3e3a7586f787d7e655",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/580d4987e62dee3e3a7586f787d7e655",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/580d4987e62dee3e3a7586f787d7e655",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/580d4987e62dee3e3a7586f787d7e655",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/a50b2b29a755904448140c3e47aa0c04.1000x554x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 1884245,
+       "iq": 130972,
+       "login": "sadchild",
+       "name": "Sadchild",
+       "role_for_display": "editor",
+       "url": "https://genius.com/sadchild",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.023054755043227668,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/152858",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/BJmNPhqzSr6Z3eDlj9Go.png",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/BJmNPhqzSr6Z3eDlj9Go.png",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/small/BJmNPhqzSr6Z3eDlj9Go.png",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/BJmNPhqzSr6Z3eDlj9Go.png",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/BJmNPhqzSr6Z3eDlj9Go.png",
+       "human_readable_role_for_display": "Contributor",
+       "id": 152858,
+       "iq": 6479,
+       "login": "Docktor",
+       "name": "Docktor",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Docktor",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.008645533141210374,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/14660",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/81d2c7151070d649b610c8f68c8becac",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/81d2c7151070d649b610c8f68c8becac",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/81d2c7151070d649b610c8f68c8becac",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/81d2c7151070d649b610c8f68c8becac",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/81d2c7151070d649b610c8f68c8becac",
+       "human_readable_role_for_display": "Editor",
+       "id": 14660,
+       "iq": 236758,
+       "login": "Magnitude901",
+       "name": "Magnitude901",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Magnitude901",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/91399",
+  "avatar": {
+   "tiny": {
+    "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/91399_actionbronson.jpg",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358290052_91399_actionbronson.jpg",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358290053_91399_actionbronson.jpg",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358290052_91399_actionbronson.jpg",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358290052_91399_actionbronson.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 91399,
+  "iq": 10469,
+  "login": "ActionBronson",
+  "name": "Action Bronson",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/ActionBronson",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 31,
+   "api_path": "/songs/715833",
+   "full_title": "Baby Blue by\u00a0Action\u00a0Bronson (Ft.\u00a0Chance\u00a0the Rapper)",
+   "header_image_thumbnail_url": "https://images.genius.com/3f40c65495de257e6acc2dabe3749b6b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3f40c65495de257e6acc2dabe3749b6b.800x800x1.jpg",
+   "id": 715833,
+   "lyrics_owner_id": 94012,
+   "lyrics_state": "complete",
+   "path": "/Action-bronson-baby-blue-lyrics",
+   "pyongs_count": 297,
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/59836a60911de6dc592806c0d6241996.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/59836a60911de6dc592806c0d6241996.800x800x1.jpg",
+   "stats": {
+    "accepted_annotations": 30,
+    "contributors": 141,
+    "iq_earners": 140,
+    "transcribers": 4,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 1345229
+   },
+   "title": "Baby Blue",
+   "title_with_featured": "Baby Blue (Ft.\u00a0Chance\u00a0the Rapper)",
+   "url": "https://genius.com/Action-bronson-baby-blue-lyrics",
+   "song_art_primary_color": "#9c2c16",
+   "song_art_secondary_color": "#7f2715",
+   "song_art_text_color": "#fff",
+   "primary_artist": {
+    "api_path": "/artists/12404",
+    "header_image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+    "id": 12404,
+    "image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Action Bronson",
+    "url": "https://genius.com/artists/Action-bronson",
+    "iq": 10469
+   },
+   "apple_music_id": "976879167",
+   "apple_music_player_url": "https://genius.com/songs/715833/apple_music_player",
+   "description": {
+    "plain": "Action & Chance The Rapper channel their energy towards jealous women on this soulful ballad. Produced by Mark Ronson, the joint marks the third time Action & Chance have worked together. They previously worked on \u201cNaNa\u201d from Chance\u2019s acclaimed Acid Rap mixtape and the lesser known \u201cThree Course Meal\u201d by ProbCause."
+   },
+   "embed_content": "<div id='rg_embed_link_715833' class='rg_embed_link' data-song-id='715833'>Read <a href='https://genius.com/Action-bronson-baby-blue-lyrics'>\u201cBaby Blue\u201d by Action\u00a0Bronson</a> on Genius</div> <script crossorigin src='//genius.com/songs/715833/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "Zelig Studios, London & Diamond Mine, Long Island City, NY",
+   "release_date": "2015-03-02",
+   "release_date_for_display": "March 2, 2015",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/108940",
+    "cover_art_url": "https://images.genius.com/3f40c65495de257e6acc2dabe3749b6b.800x800x1.jpg",
+    "full_title": "Mr. Wonderful by Action Bronson",
+    "id": 108940,
+    "name": "Mr. Wonderful",
+    "url": "https://genius.com/albums/Action-bronson/Mr-wonderful",
+    "artist": {
+     "api_path": "/artists/12404",
+     "header_image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+     "id": 12404,
+     "image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Action Bronson",
+     "url": "https://genius.com/artists/Action-bronson",
+     "iq": 10469
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Programmer",
+     "artists": [
+      {
+       "api_path": "/artists/8231",
+       "header_image_url": "https://images.genius.com/f2554b925666456a51ce3405d6df42d3.1000x562x1.jpg",
+       "id": 8231,
+       "image_url": "https://images.genius.com/25cd092ec5a455956e17fc21cc1356e1.494x494x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Mark Ronson",
+       "url": "https://genius.com/artists/Mark-ronson",
+       "iq": 100
+      }
+     ]
+    },
+    {
+     "label": "Scratches",
+     "artists": [
+      {
+       "api_path": "/artists/8231",
+       "header_image_url": "https://images.genius.com/f2554b925666456a51ce3405d6df42d3.1000x562x1.jpg",
+       "id": 8231,
+       "image_url": "https://images.genius.com/25cd092ec5a455956e17fc21cc1356e1.494x494x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Mark Ronson",
+       "url": "https://genius.com/artists/Mark-ronson",
+       "iq": 100
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/8231",
+       "header_image_url": "https://images.genius.com/f2554b925666456a51ce3405d6df42d3.1000x562x1.jpg",
+       "id": 8231,
+       "image_url": "https://images.genius.com/25cd092ec5a455956e17fc21cc1356e1.494x494x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Mark Ronson",
+       "url": "https://genius.com/artists/Mark-ronson",
+       "iq": 100
+      }
+     ]
+    },
+    {
+     "label": "Piano",
+     "artists": [
+      {
+       "api_path": "/artists/8231",
+       "header_image_url": "https://images.genius.com/f2554b925666456a51ce3405d6df42d3.1000x562x1.jpg",
+       "id": 8231,
+       "image_url": "https://images.genius.com/25cd092ec5a455956e17fc21cc1356e1.494x494x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Mark Ronson",
+       "url": "https://genius.com/artists/Mark-ronson",
+       "iq": 100
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/8231",
+       "header_image_url": "https://images.genius.com/f2554b925666456a51ce3405d6df42d3.1000x562x1.jpg",
+       "id": 8231,
+       "image_url": "https://images.genius.com/25cd092ec5a455956e17fc21cc1356e1.494x494x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Mark Ronson",
+       "url": "https://genius.com/artists/Mark-ronson",
+       "iq": 100
+      }
+     ]
+    },
+    {
+     "label": "Vibraphone",
+     "artists": [
+      {
+       "api_path": "/artists/58668",
+       "header_image_url": "https://images.genius.com/47c688b643c775bbaa78b038c318f264.479x479x1.jpg",
+       "id": 58668,
+       "image_url": "https://images.genius.com/47c688b643c775bbaa78b038c318f264.479x479x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Leon Michels",
+       "url": "https://genius.com/artists/Leon-michels"
+      }
+     ]
+    },
+    {
+     "label": "Mellotron And",
+     "artists": [
+      {
+       "api_path": "/artists/58668",
+       "header_image_url": "https://images.genius.com/47c688b643c775bbaa78b038c318f264.479x479x1.jpg",
+       "id": 58668,
+       "image_url": "https://images.genius.com/47c688b643c775bbaa78b038c318f264.479x479x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Leon Michels",
+       "url": "https://genius.com/artists/Leon-michels"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/648299",
+       "header_image_url": "https://images.genius.com/479ab38c1d9d0ece8ba7a3a7db72d402.1000x752x1.jpg",
+       "id": 648299,
+       "image_url": "https://images.genius.com/894f6aebf1dd0ee4cc1c290b03e1cf8a.762x762x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Thomas Brenneck",
+       "url": "https://genius.com/artists/Thomas-brenneck"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/460724",
+       "header_image_url": "https://images.genius.com/37d4b917c422c11e1f456ee5f95bf3df.636x421x1.jpg",
+       "id": 460724,
+       "image_url": "https://images.genius.com/dbe279fd0acf607812ceae06e4f01567.421x421x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tom Elmhirst",
+       "url": "https://genius.com/artists/Tom-elmhirst"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/332682",
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/65265449c7d56d11d8e98b17091928f6",
+       "id": 332682,
+       "image_url": "https://images.rapgenius.com/avatars/medium/65265449c7d56d11d8e98b17091928f6",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Justin Smith",
+       "url": "https://genius.com/artists/Justin-smith",
+       "iq": 524
+      }
+     ]
+    },
+    {
+     "label": "Engineering",
+     "artists": [
+      {
+       "api_path": "/artists/646138",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1622822553",
+       "id": 646138,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1622822553",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rhys Downing",
+       "url": "https://genius.com/artists/Rhys-downing"
+      },
+      {
+       "api_path": "/artists/58668",
+       "header_image_url": "https://images.genius.com/47c688b643c775bbaa78b038c318f264.479x479x1.jpg",
+       "id": 58668,
+       "image_url": "https://images.genius.com/47c688b643c775bbaa78b038c318f264.479x479x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Leon Michels",
+       "url": "https://genius.com/artists/Leon-michels"
+      },
+      {
+       "api_path": "/artists/149101",
+       "header_image_url": "https://images.genius.com/33f4d1a4555fe87ac19d53e83896de98.956x406x1.jpg",
+       "id": 149101,
+       "image_url": "https://images.genius.com/6897fdc43a0097b5be5e3b021a126dfd.406x406x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Andrew Sarlo",
+       "url": "https://genius.com/artists/Andrew-sarlo"
+      },
+      {
+       "api_path": "/artists/646119",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1622822553",
+       "id": 646119,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1622822553",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ricky Damien",
+       "url": "https://genius.com/artists/Ricky-damien"
+      }
+     ]
+    },
+    {
+     "label": "Background Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/73120",
+       "header_image_url": "https://images.genius.com/e265ba493f7ffb98f60370f6259fdd7a.421x421x1.jpg",
+       "id": 73120,
+       "image_url": "https://images.genius.com/e265ba493f7ffb98f60370f6259fdd7a.421x421x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Zane Lowe",
+       "url": "https://genius.com/artists/Zane-lowe"
+      },
+      {
+       "api_path": "/artists/16751",
+       "header_image_url": "https://images.genius.com/27ac36b6f8cdba29f97d0a94834bbdb7.1000x563x1.jpg",
+       "id": 16751,
+       "image_url": "https://images.genius.com/9db1a9643a028d62543e44c90da3a6ad.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Chance the Rapper",
+       "url": "https://genius.com/artists/Chance-the-rapper",
+       "iq": 47749
+      }
+     ]
+    },
+    {
+     "label": "Trumpet",
+     "artists": [
+      {
+       "api_path": "/artists/55396",
+       "header_image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+       "id": 55396,
+       "image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Nico Segal",
+       "url": "https://genius.com/artists/Nico-segal",
+       "iq": 202
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 255445,
+    "annotator_login": "Sem_Groeneweg",
+    "api_path": "/referents/4980092",
+    "classification": "accepted",
+    "fragment": "Baby Blue",
+    "id": 4980092,
+    "is_description": true,
+    "path": "/4980092/Action-bronson-baby-blue/Baby-blue",
+    "range": {
+     "content": "Baby Blue"
+    },
+    "song_id": 715833,
+    "url": "https://genius.com/4980092/Action-bronson-baby-blue/Baby-blue",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/715833",
+     "client_timestamps": {
+      "updated_by_human_at": 1613280673,
+      "lyrics_updated_at": 1613280673
+     },
+     "context": "Action Bronson",
+     "id": 715833,
+     "image_url": "https://images.rapgenius.com/59836a60911de6dc592806c0d6241996.800x800x1.jpg",
+     "link_title": "Baby Blue by\u00a0Action\u00a0Bronson (Ft.\u00a0Chance\u00a0the Rapper)",
+     "title": "Baby Blue",
+     "type": "Song",
+     "url": "https://genius.com/Action-bronson-baby-blue-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/4980092",
+      "body": {
+       "plain": "Action & Chance The Rapper channel their energy towards jealous women on this soulful ballad. Produced by Mark Ronson, the joint marks the third time Action & Chance have worked together. They previously worked on \u201cNaNa\u201d from Chance\u2019s acclaimed Acid Rap mixtape and the lesser known \u201cThree Course Meal\u201d by ProbCause."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 4980092,
+      "pinned": false,
+      "share_url": "https://genius.com/4980092",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/4980092/Action-bronson-baby-blue/Baby-blue",
+      "verified": false,
+      "votes_total": 87,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.3877551020408163,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/127862",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/97fd2a04f49a3707f9efe1c76cd3b292",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/97fd2a04f49a3707f9efe1c76cd3b292",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/97fd2a04f49a3707f9efe1c76cd3b292",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/97fd2a04f49a3707f9efe1c76cd3b292",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/006697c6143f33d06ebbd245ff9d268d.1000x1000x1.jpg",
+         "human_readable_role_for_display": "Staff",
+         "id": 127862,
+         "iq": 540935,
+         "login": "Michael",
+         "name": "Michael Heal",
+         "role_for_display": "staff",
+         "url": "https://genius.com/Michael",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.2653061224489796,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/255445",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/9f4872a754586a1706d3b65fde82b71a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/9f4872a754586a1706d3b65fde82b71a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/9f4872a754586a1706d3b65fde82b71a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/9f4872a754586a1706d3b65fde82b71a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/9f4872a754586a1706d3b65fde82b71a",
+         "human_readable_role_for_display": "Moderator",
+         "id": 255445,
+         "iq": 150759,
+         "login": "Sem_Groeneweg",
+         "name": "Sem Groeneweg",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Sem_Groeneweg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.1836734693877551,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/88410",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/5a231006aadb36de2d1ecf762d688f2b",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/5a231006aadb36de2d1ecf762d688f2b",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/5a231006aadb36de2d1ecf762d688f2b",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/5a231006aadb36de2d1ecf762d688f2b",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/39f3c6513388b3b678a5b57d91938dc7.300x143x35.gif",
+         "human_readable_role_for_display": "Moderator",
+         "id": 88410,
+         "iq": 79666,
+         "login": "treflip",
+         "name": "I am Sam Blake",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/treflip",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.14285714285714288,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/186407",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/955bc965870841f027eceb7b50f53164",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/955bc965870841f027eceb7b50f53164",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/955bc965870841f027eceb7b50f53164",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/955bc965870841f027eceb7b50f53164",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/955bc965870841f027eceb7b50f53164",
+         "human_readable_role_for_display": "Editor",
+         "id": 186407,
+         "iq": 25504,
+         "login": "TRUly_Chancelor",
+         "name": "TRUly_Chancelor",
+         "role_for_display": "editor",
+         "url": "https://genius.com/TRUly_Chancelor",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.020408163265306124,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/29502",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/i3qQ4iQtSQ2DKeIBAkJQ.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/i3qQ4iQtSQ2DKeIBAkJQ.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/i3qQ4iQtSQ2DKeIBAkJQ.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/i3qQ4iQtSQ2DKeIBAkJQ.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/i3qQ4iQtSQ2DKeIBAkJQ.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 29502,
+         "iq": 5935,
+         "login": "K-Ross9",
+         "name": "K-Ross9",
+         "role_for_display": "editor",
+         "url": "https://genius.com/K-Ross9",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [
+    {
+     "api_path": "/artists/16751",
+     "header_image_url": "https://images.genius.com/27ac36b6f8cdba29f97d0a94834bbdb7.1000x563x1.jpg",
+     "id": 16751,
+     "image_url": "https://images.genius.com/9db1a9643a028d62543e44c90da3a6ad.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Chance the Rapper",
+     "url": "https://genius.com/artists/Chance-the-rapper",
+     "iq": 47749
+    }
+   ],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=bVP_w1rQweE"
+    },
+    {
+     "attribution": "actionbronson",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/actionbronson/baby-blue-ft-chance-the-rapper"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/8231",
+     "header_image_url": "https://images.genius.com/f2554b925666456a51ce3405d6df42d3.1000x562x1.jpg",
+     "id": 8231,
+     "image_url": "https://images.genius.com/25cd092ec5a455956e17fc21cc1356e1.494x494x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Mark Ronson",
+     "url": "https://genius.com/artists/Mark-ronson",
+     "iq": 100
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/2908038",
+       "full_title": "Memory Band by\u00a0Rotary\u00a0Connection",
+       "header_image_thumbnail_url": "https://images.genius.com/fcaafd0ca9f9c27cb393949b935ef88d.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/fcaafd0ca9f9c27cb393949b935ef88d.1000x1000x1.jpg",
+       "id": 2908038,
+       "lyrics_owner_id": 3264970,
+       "lyrics_state": "complete",
+       "path": "/Rotary-connection-memory-band-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/fcaafd0ca9f9c27cb393949b935ef88d.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/fcaafd0ca9f9c27cb393949b935ef88d.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Memory Band",
+       "title_with_featured": "Memory Band",
+       "url": "https://genius.com/Rotary-connection-memory-band-lyrics",
+       "song_art_primary_color": "#dc7b4c",
+       "song_art_secondary_color": "#6f3c35",
+       "song_art_text_color": "#fff",
+       "primary_artist": {
+        "api_path": "/artists/33199",
+        "header_image_url": "https://images.genius.com/be1a36bc64dc6d5a4a6d7639e0086bd6.700x700x1.png",
+        "id": 33199,
+        "image_url": "https://images.genius.com/ccead91b5cddee65a85dae4b20fc4170.700x700x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Rotary Connection",
+        "url": "https://genius.com/artists/Rotary-connection"
+       }
+      },
+      {
+       "annotation_count": 15,
+       "api_path": "/songs/68258",
+       "full_title": "Thug Love Story 2012 by\u00a0Action\u00a0Bronson",
+       "header_image_thumbnail_url": "https://images.genius.com/7a3649262f7c86b3e60cd3e672699bb1.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/7a3649262f7c86b3e60cd3e672699bb1.400x400x1.jpg",
+       "id": 68258,
+       "lyrics_owner_id": 42784,
+       "lyrics_state": "complete",
+       "path": "/Action-bronson-thug-love-story-2012-lyrics",
+       "pyongs_count": 1,
+       "song_art_image_thumbnail_url": "https://images.genius.com/7a3649262f7c86b3e60cd3e672699bb1.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/7a3649262f7c86b3e60cd3e672699bb1.400x400x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 5,
+        "hot": false,
+        "pageviews": 33386
+       },
+       "title": "Thug Love Story 2012",
+       "title_with_featured": "Thug Love Story 2012",
+       "url": "https://genius.com/Action-bronson-thug-love-story-2012-lyrics",
+       "song_art_primary_color": "#dfc60d",
+       "song_art_secondary_color": "#f0dc48",
+       "song_art_text_color": "#000",
+       "primary_artist": {
+        "api_path": "/artists/12404",
+        "header_image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+        "id": 12404,
+        "image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Action Bronson",
+        "url": "https://genius.com/artists/Action-bronson",
+        "iq": 10469
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": [
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/2441989",
+       "full_title": "Fuck You Michelle by\u00a0Taustin",
+       "header_image_thumbnail_url": "https://images.rapgenius.com/5ab9b0f3394c49afd96595256cd4662c.300x188x1.jpg",
+       "header_image_url": "https://images.rapgenius.com/5ab9b0f3394c49afd96595256cd4662c.736x460x1.jpg",
+       "id": 2441989,
+       "lyrics_owner_id": 2523414,
+       "lyrics_state": "complete",
+       "path": "/Taustin-fuck-you-michelle-lyrics",
+       "pyongs_count": 1,
+       "song_art_image_thumbnail_url": "https://images.rapgenius.com/5ab9b0f3394c49afd96595256cd4662c.300x188x1.jpg",
+       "song_art_image_url": "https://images.rapgenius.com/5ab9b0f3394c49afd96595256cd4662c.736x460x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false
+       },
+       "title": "Fuck You Michelle",
+       "title_with_featured": "Fuck You Michelle",
+       "url": "https://genius.com/Taustin-fuck-you-michelle-lyrics",
+       "song_art_primary_color": "#7f7f7f",
+       "song_art_secondary_color": "#424242",
+       "song_art_text_color": "#fff",
+       "primary_artist": {
+        "api_path": "/artists/649227",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1622822553",
+        "id": 649227,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1622822553",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Taustin",
+        "url": "https://genius.com/artists/Taustin"
+       }
+      },
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/2822971",
+       "full_title": "2PM THOUGHTS by\u00a0Dayy\u00a0(Dead)",
+       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1622822553",
+       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1622822553",
+       "id": 2822971,
+       "lyrics_owner_id": 3505754,
+       "lyrics_state": "complete",
+       "path": "/Dayy-dead-2pm-thoughts-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1622822553",
+       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1622822553",
+       "stats": {
+        "unreviewed_annotations": 4,
+        "hot": false
+       },
+       "title": "2PM THOUGHTS",
+       "title_with_featured": "2PM THOUGHTS",
+       "url": "https://genius.com/Dayy-dead-2pm-thoughts-lyrics",
+       "song_art_primary_color": "#E9E9E9",
+       "song_art_secondary_color": "#E9E9E9",
+       "song_art_text_color": "#000000",
+       "primary_artist": {
+        "api_path": "/artists/980129",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1622822553",
+        "id": 980129,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1622822553",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Dayy (Dead)",
+        "url": "https://genius.com/artists/Dayy-dead"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 43,
+       "api_path": "/songs/2893230",
+       "full_title": "Baby Blue RMX by\u00a0MadMan (Ft.\u00a0Nitro & Pedar)",
+       "header_image_thumbnail_url": "https://images.genius.com/72598bb7d4db00956e16335070f0b2ba.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/72598bb7d4db00956e16335070f0b2ba.960x960x1.jpg",
+       "id": 2893230,
+       "lyrics_owner_id": 3545050,
+       "lyrics_state": "complete",
+       "path": "/Madman-baby-blue-rmx-lyrics",
+       "pyongs_count": 7,
+       "song_art_image_thumbnail_url": "https://images.genius.com/72598bb7d4db00956e16335070f0b2ba.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/72598bb7d4db00956e16335070f0b2ba.960x960x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 59358
+       },
+       "title": "Baby Blue RMX",
+       "title_with_featured": "Baby Blue RMX (Ft.\u00a0Nitro & Pedar)",
+       "url": "https://genius.com/Madman-baby-blue-rmx-lyrics",
+       "song_art_primary_color": "#9a1617",
+       "song_art_secondary_color": "#740707",
+       "song_art_text_color": "#fff",
+       "primary_artist": {
+        "api_path": "/artists/7923",
+        "header_image_url": "https://images.genius.com/7b90cdca19bd8060202b24c17c535a96.1000x667x1.jpg",
+        "id": 7923,
+        "image_url": "https://images.genius.com/91b326779fc9b069326d6bab103f37fa.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "MadMan",
+        "url": "https://genius.com/artists/Madman",
+        "iq": 2749
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/16751",
+     "header_image_url": "https://images.genius.com/27ac36b6f8cdba29f97d0a94834bbdb7.1000x563x1.jpg",
+     "id": 16751,
+     "image_url": "https://images.genius.com/9db1a9643a028d62543e44c90da3a6ad.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Chance the Rapper",
+     "url": "https://genius.com/artists/Chance-the-rapper",
+     "iq": 47749
+    },
+    {
+     "api_path": "/artists/8231",
+     "header_image_url": "https://images.genius.com/f2554b925666456a51ce3405d6df42d3.1000x562x1.jpg",
+     "id": 8231,
+     "image_url": "https://images.genius.com/25cd092ec5a455956e17fc21cc1356e1.494x494x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Mark Ronson",
+     "url": "https://genius.com/artists/Mark-ronson",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/73120",
+     "header_image_url": "https://images.genius.com/e265ba493f7ffb98f60370f6259fdd7a.421x421x1.jpg",
+     "id": 73120,
+     "image_url": "https://images.genius.com/e265ba493f7ffb98f60370f6259fdd7a.421x421x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Zane Lowe",
+     "url": "https://genius.com/artists/Zane-lowe"
+    },
+    {
+     "api_path": "/artists/12404",
+     "header_image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+     "id": 12404,
+     "image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Action Bronson",
+     "url": "https://genius.com/artists/Action-bronson",
+     "iq": 10469
+    }
+   ],
+   "artist": "Action Bronson",
+   "lyrics": "[Intro: Action Bronson]\nHeartbreak drowned sorrows in a large steak\n\n[Chorus: Action Bronson]\nWhy you always all on my back?\nWhy you gotta do me like that?\nWhy you gotta act like a bitch when I'm with you?\nBaby girl, I'm blue\n\n[Verse 1: Action Bronson]\nBecause you treat me like shit\nI paid for the bed and never even slept in it\nI paid for that crib I never stepped foot in\nAnd now somebody else is eating all the pudding\nThings change, now my dashboard wooden\nAll black Benz, like a young Doc Gooden\nDark shades, 'cause I'm stone crazy\nGirl, we grown, stop playin' on my phone, baby\nAll your childish attempts to make me angry fall short\nWhich only fuels the rage you have, because you have nothing\nUnderstandable, I'm shinin' brilliant with five Brazilians\nThere were times I used to hide my feelings\nNow I'm butt naked in the Lamborghini\nAnd motherfuckers can't see me\nWait 'til this chick see me on TV, I make the shit look easy\nWho would've thought I hit you right back?\n[Chorus: Action Bronson]\nWhy you always all on my back?\nWhy you gotta do me like that?\nWhy you gotta act like a bitch when I'm with you?\nBaby girl, I'm blue\n\n[Verse 2: Action Bronson]\nSo many women wanna call me 'baby'\nAnd you wonder why the fuck that I ain't call you lately\nSome would say that I'm the symbol for sex and, uh\nOthers would hate, but I don't give 'em no breath\nGo on a date, I'm at the crib with the chef and, uh\nThat's me, and you could order whatever\nThe specialty is white snake and underwear sauce\nYou could probably catch me somewhere where the sun is next\nAnd I understand that's only 'cause I'm popular\nI'm getting topped off in the front row of the opera\nAs Bocelli sings, the celly rings, I gotta go\nYou'll never know how good it feels to lay in bed with king\nI'm not exactly flawless, but I'm gorgeous, just like a horse is\nI know the thought of me succeeding makes a lot of people nauseous\nStill, I'm on the back of the boat taking pictures with the swordfish\n\n[Chorus: Action Bronson]\nWhy you always all on my back?\nWhy you gotta do me like that?\nWhy you gotta act like a bitch when I'm with you?\nBaby girl, I'm blue\n[Verse 3: Chance The Rapper]\nI hope you get a paper cut on your tongue\nFrom a razor in a paper cup\nI hope every soda you drink already shaken up\nI hope your dreams dry like raisins in the baking sun\nI hope your titties all saggy in your early twenties\nI hope there's always snow in your driveway\nI hope you never get off Fridays\nAnd you work at a Friday's that's always busy on Fridays\nI hope you win the lottery and lose your ticket\nI hope it's Ben and Socrates poop all up in your kitchen\nI hope the zipper on your jacket get stuck\nAnd your headphones short, and your charger don't work\nAnd you spill shit on your shirt\nI hope your tears don't hurt, and I can smile in your face\nCut my losses, how Delilah changed my locks to a fade\nI hope you happy, I hope you happy\nI hope you ruined this shit for a reason, I hope you happy (Igh!)\n\n[Chorus: Action Bronson]\nWhy you always all on my back?\nWhy you gotta do me like that?\nWhy you gotta act like a bitch when I'm with you?\nBaby girl, I'm blue\n\n[Outro: Chance The Rapper & Zane Lowe]\nLa, la la la la\nLa la la la\nLa la la la\nLa la la la\nLa la la la\nLa la la la\n[Produced by Mark Ronson]"
+  },
+  {
+   "annotation_count": 28,
+   "api_path": "/songs/665720",
+   "full_title": "Actin' Crazy by\u00a0Action\u00a0Bronson",
+   "header_image_thumbnail_url": "https://images.genius.com/3f40c65495de257e6acc2dabe3749b6b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3f40c65495de257e6acc2dabe3749b6b.800x800x1.jpg",
+   "id": 665720,
+   "lyrics_owner_id": 964089,
+   "lyrics_state": "complete",
+   "path": "/Action-bronson-actin-crazy-lyrics",
+   "pyongs_count": 59,
+   "song_art_image_thumbnail_url": "https://images.genius.com/75edc42d9ccf1fce1a027cbd932f9a1b.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/75edc42d9ccf1fce1a027cbd932f9a1b.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 23,
+    "contributors": 67,
+    "iq_earners": 65,
+    "transcribers": 4,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 2,
+    "hot": false,
+    "pageviews": 170405
+   },
+   "title": "Actin\u2019 Crazy",
+   "title_with_featured": "Actin' Crazy",
+   "url": "https://genius.com/Action-bronson-actin-crazy-lyrics",
+   "song_art_primary_color": "#dc1cf4",
+   "song_art_secondary_color": "#7a351c",
+   "song_art_text_color": "#fff",
+   "primary_artist": {
+    "api_path": "/artists/12404",
+    "header_image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+    "id": 12404,
+    "image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Action Bronson",
+    "url": "https://genius.com/artists/Action-bronson",
+    "iq": 10469
+   },
+   "apple_music_id": "976879162",
+   "apple_music_player_url": "https://genius.com/songs/665720/apple_music_player",
+   "description": {
+    "plain": "Bronson broke down this song for Complex Magazine:\n\nThis joint was pretty much\u2026the thing that was presented to me. 40 doesn\u2019t work with everybody. Boom. He wants to work with me. If the opportunity is there you know I\u2019m going through that door. That\u2019s how it is for me. I made that opportunity happen, and we made a beautiful song.\n\nSee the music video here:\n\nhttps://www.youtube.com/watch?v=debIyWS6Byc"
+   },
+   "embed_content": "<div id='rg_embed_link_665720' class='rg_embed_link' data-song-id='665720'>Read <a href='https://genius.com/Action-bronson-actin-crazy-lyrics'>\u201cActin' Crazy\u201d by Action\u00a0Bronson</a> on Genius</div> <script crossorigin src='//genius.com/songs/665720/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "Metalworks Studios, Mississauga, Canada",
+   "release_date": "2015-01-07",
+   "release_date_for_display": "January 7, 2015",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/108940",
+    "cover_art_url": "https://images.genius.com/3f40c65495de257e6acc2dabe3749b6b.800x800x1.jpg",
+    "full_title": "Mr. Wonderful by Action Bronson",
+    "id": 108940,
+    "name": "Mr. Wonderful",
+    "url": "https://genius.com/albums/Action-bronson/Mr-wonderful",
+    "artist": {
+     "api_path": "/artists/12404",
+     "header_image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+     "id": 12404,
+     "image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Action Bronson",
+     "url": "https://genius.com/artists/Action-bronson",
+     "iq": 10469
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/27612",
+       "header_image_url": "https://images.genius.com/c999dd154986a45b8981323a2ea53f98.620x380x1.jpg",
+       "id": 27612,
+       "image_url": "https://images.genius.com/c999dd154986a45b8981323a2ea53f98.620x380x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "40",
+       "url": "https://genius.com/artists/40",
+       "iq": 537
+      },
+      {
+       "api_path": "/artists/225710",
+       "header_image_url": "https://images.genius.com/3da4a728acfa5ad21c81ef56b94bad73.848x473x1.png",
+       "id": 225710,
+       "image_url": "https://images.genius.com/96c4e8ef8f775bf7ae5aa65a481e0a98.944x944x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Noel Cadastre",
+       "url": "https://genius.com/artists/Noel-cadastre"
+      },
+      {
+       "api_path": "/artists/646126",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1622822553",
+       "id": 646126,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1622822553",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Evan \u201cBBQ\u201d Stewart",
+       "url": "https://genius.com/artists/Evan-bbq-stewart"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/332682",
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/65265449c7d56d11d8e98b17091928f6",
+       "id": 332682,
+       "image_url": "https://images.rapgenius.com/avatars/medium/65265449c7d56d11d8e98b17091928f6",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Justin Smith",
+       "url": "https://genius.com/artists/Justin-smith",
+       "iq": 524
+      }
+     ]
+    },
+    {
+     "label": "Co-Producer",
+     "artists": [
+      {
+       "api_path": "/artists/43390",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1622822553",
+       "id": 43390,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1622822553",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Audio BLK",
+       "url": "https://genius.com/artists/Audio-blk"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/27612",
+       "header_image_url": "https://images.genius.com/c999dd154986a45b8981323a2ea53f98.620x380x1.jpg",
+       "id": 27612,
+       "image_url": "https://images.genius.com/c999dd154986a45b8981323a2ea53f98.620x380x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "40",
+       "url": "https://genius.com/artists/40",
+       "iq": 537
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 964089,
+    "annotator_login": "livetil2112",
+    "api_path": "/referents/4681745",
+    "classification": "accepted",
+    "fragment": "Actin\u2019 Crazy",
+    "id": 4681745,
+    "is_description": true,
+    "path": "/4681745/Action-bronson-actin-crazy/Actin-crazy",
+    "range": {
+     "content": "Actin' Crazy"
+    },
+    "song_id": 665720,
+    "url": "https://genius.com/4681745/Action-bronson-actin-crazy/Actin-crazy",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/665720",
+     "client_timestamps": {
+      "updated_by_human_at": 1598371793,
+      "lyrics_updated_at": 1560740969
+     },
+     "context": "Action Bronson",
+     "id": 665720,
+     "image_url": "https://images.genius.com/75edc42d9ccf1fce1a027cbd932f9a1b.500x500x1.jpg",
+     "link_title": "Actin\u2019 Crazy by\u00a0Action\u00a0Bronson",
+     "title": "Actin' Crazy",
+     "type": "Song",
+     "url": "https://genius.com/Action-bronson-actin-crazy-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/4681745",
+      "body": {
+       "plain": "Bronson broke down this song for Complex Magazine:\n\nThis joint was pretty much\u2026the thing that was presented to me. 40 doesn\u2019t work with everybody. Boom. He wants to work with me. If the opportunity is there you know I\u2019m going through that door. That\u2019s how it is for me. I made that opportunity happen, and we made a beautiful song.\n\nSee the music video here:\n\nhttps://www.youtube.com/watch?v=debIyWS6Byc"
+      },
+      "comment_count": 2,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 4681745,
+      "pinned": false,
+      "share_url": "https://genius.com/4681745",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/4681745/Action-bronson-actin-crazy/Actin-crazy",
+      "verified": false,
+      "votes_total": 25,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.6041666666666666,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/127862",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/97fd2a04f49a3707f9efe1c76cd3b292",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/97fd2a04f49a3707f9efe1c76cd3b292",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/97fd2a04f49a3707f9efe1c76cd3b292",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/97fd2a04f49a3707f9efe1c76cd3b292",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/006697c6143f33d06ebbd245ff9d268d.1000x1000x1.jpg",
+         "human_readable_role_for_display": "Staff",
+         "id": 127862,
+         "iq": 540935,
+         "login": "Michael",
+         "name": "Michael Heal",
+         "role_for_display": "staff",
+         "url": "https://genius.com/Michael",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.34375,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/255445",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/9f4872a754586a1706d3b65fde82b71a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/9f4872a754586a1706d3b65fde82b71a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/9f4872a754586a1706d3b65fde82b71a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/9f4872a754586a1706d3b65fde82b71a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/9f4872a754586a1706d3b65fde82b71a",
+         "human_readable_role_for_display": "Moderator",
+         "id": 255445,
+         "iq": 150759,
+         "login": "Sem_Groeneweg",
+         "name": "Sem Groeneweg",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Sem_Groeneweg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.03125,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/52364",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/8afe3d43b43671ff96504fe65b4ba39f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/8afe3d43b43671ff96504fe65b4ba39f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/8afe3d43b43671ff96504fe65b4ba39f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/8afe3d43b43671ff96504fe65b4ba39f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/8afe3d43b43671ff96504fe65b4ba39f",
+         "human_readable_role_for_display": "Editor",
+         "id": 52364,
+         "iq": 16823,
+         "login": "Cratiz",
+         "name": "Cratiz",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Cratiz",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.020833333333333336,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/964089",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/2a8cf165ceb72f488ae17ae36f993c1b",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/2a8cf165ceb72f488ae17ae36f993c1b",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/2a8cf165ceb72f488ae17ae36f993c1b",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/2a8cf165ceb72f488ae17ae36f993c1b",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/2a8cf165ceb72f488ae17ae36f993c1b",
+         "human_readable_role_for_display": "Contributor",
+         "id": 964089,
+         "iq": 2304,
+         "login": "livetil2112",
+         "name": "livetil2112",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/livetil2112",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:3clX2NMmjaAHmBjeTSa9vV",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/3clX2NMmjaAHmBjeTSa9vV"
+    },
+    {
+     "attribution": "actionbronson",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/actionbronson/action-bronson-actin-crazy"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=debIyWS6Byc"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/531937",
+     "header_image_url": "https://images.genius.com/9779b0d6a07c220f26fb2697fd224816.302x302x1.jpg",
+     "id": 531937,
+     "image_url": "https://images.genius.com/9779b0d6a07c220f26fb2697fd224816.302x302x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Omen (Producer)",
+     "url": "https://genius.com/artists/Omen-producer"
+    },
+    {
+     "api_path": "/artists/27612",
+     "header_image_url": "https://images.genius.com/c999dd154986a45b8981323a2ea53f98.620x380x1.jpg",
+     "id": 27612,
+     "image_url": "https://images.genius.com/c999dd154986a45b8981323a2ea53f98.620x380x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "40",
+     "url": "https://genius.com/artists/40",
+     "iq": 537
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": [
+      {
+       "annotation_count": 22,
+       "api_path": "/songs/3624957",
+       "full_title": "Paradise Lost by\u00a0Gemitaiz",
+       "header_image_thumbnail_url": "https://images.genius.com/b09f7c9c93922dbcb2b4750fedecc717.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b09f7c9c93922dbcb2b4750fedecc717.1000x1000x1.jpg",
+       "id": 3624957,
+       "lyrics_owner_id": 6060387,
+       "lyrics_state": "complete",
+       "path": "/Gemitaiz-paradise-lost-lyrics",
+       "pyongs_count": 4,
+       "song_art_image_thumbnail_url": "https://images.genius.com/b09f7c9c93922dbcb2b4750fedecc717.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b09f7c9c93922dbcb2b4750fedecc717.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false,
+        "pageviews": 76961
+       },
+       "title": "Paradise Lost",
+       "title_with_featured": "Paradise Lost",
+       "url": "https://genius.com/Gemitaiz-paradise-lost-lyrics",
+       "song_art_primary_color": "#8f2537",
+       "song_art_secondary_color": "#1b4468",
+       "song_art_text_color": "#fff",
+       "primary_artist": {
+        "api_path": "/artists/32862",
+        "header_image_url": "https://images.genius.com/6f2b0fe6537362b7c01e286f93aa632a.1000x563x1.jpg",
+        "id": 32862,
+        "image_url": "https://images.genius.com/bf5c01c933ef6e75fe7bcc964d24a8ad.900x900x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Gemitaiz",
+        "url": "https://genius.com/artists/Gemitaiz",
+        "iq": 2728
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6863447",
+       "full_title": "\u0411\u0438\u0433 \u0424\u0438\u0442 8 (Big feat 8) by\u00a0Garry\u00a0Wu, OG BUDA, Feduk, Matok, Toobe, BSK, Vagner",
+       "header_image_thumbnail_url": "https://images.genius.com/2f3b0fcd27d8590733f8a34e7b571452.300x248x1.jpg",
+       "header_image_url": "https://images.genius.com/2f3b0fcd27d8590733f8a34e7b571452.604x499x1.jpg",
+       "id": 6863447,
+       "lyrics_owner_id": 10835401,
+       "lyrics_state": "complete",
+       "path": "/Garry-wu-og-buda-feduk-matok-toobe-bsk-vagner-8-big-feat-8-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/2f3b0fcd27d8590733f8a34e7b571452.300x248x1.jpg",
+       "song_art_image_url": "https://images.genius.com/2f3b0fcd27d8590733f8a34e7b571452.604x499x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "\u0411\u0438\u0433 \u0424\u0438\u0442 8 (Big feat 8)",
+       "title_with_featured": "\u0411\u0438\u0433 \u0424\u0438\u0442 8 (Big feat 8)",
+       "url": "https://genius.com/Garry-wu-og-buda-feduk-matok-toobe-bsk-vagner-8-big-feat-8-lyrics",
+       "song_art_primary_color": "#3f3fbf",
+       "song_art_secondary_color": "#04040c",
+       "song_art_text_color": "#fff",
+       "primary_artist": {
+        "api_path": "/artists/2754870",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1622822553",
+        "id": 2754870,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1622822553",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Garry Wu, OG BUDA, Feduk, Matok, Toobe, BSK, Vagner",
+        "url": "https://genius.com/artists/Garry-wu-og-buda-feduk-matok-toobe-bsk-vagner"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/91399",
+     "avatar": {
+      "tiny": {
+       "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/91399_actionbronson.jpg",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358290052_91399_actionbronson.jpg",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358290053_91399_actionbronson.jpg",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358290052_91399_actionbronson.jpg",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358290052_91399_actionbronson.jpg",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 91399,
+     "iq": 10469,
+     "login": "ActionBronson",
+     "name": "Action Bronson",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/ActionBronson",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations"
+     ],
+     "artist": {
+      "api_path": "/artists/12404",
+      "header_image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+      "id": 12404,
+      "image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Action Bronson",
+      "url": "https://genius.com/artists/Action-bronson",
+      "iq": 10469
+     },
+     "user": {
+      "api_path": "/users/91399",
+      "avatar": {
+       "tiny": {
+        "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/91399_actionbronson.jpg",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358290052_91399_actionbronson.jpg",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358290053_91399_actionbronson.jpg",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358290052_91399_actionbronson.jpg",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358290052_91399_actionbronson.jpg",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 91399,
+      "iq": 10469,
+      "login": "ActionBronson",
+      "name": "Action Bronson",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/ActionBronson",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/28096",
+     "header_image_url": "https://images.genius.com/fa80f7590009549fec28de6ea0c6b1e9.294x294x1.jpg",
+     "id": 28096,
+     "image_url": "https://images.genius.com/fa80f7590009549fec28de6ea0c6b1e9.294x294x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Danny Browne",
+     "url": "https://genius.com/artists/Danny-browne"
+    },
+    {
+     "api_path": "/artists/5446",
+     "header_image_url": "https://images.genius.com/0ef9064e2ad23af7d51a7d87e3d2d828.657x657x1.jpg",
+     "id": 5446,
+     "image_url": "https://images.genius.com/0ef9064e2ad23af7d51a7d87e3d2d828.657x657x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mr. Vegas",
+     "url": "https://genius.com/artists/Mr-vegas"
+    },
+    {
+     "api_path": "/artists/646123",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1622822553",
+     "id": 646123,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1622822553",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Antoine Baldwin",
+     "url": "https://genius.com/artists/Antoine-baldwin"
+    },
+    {
+     "api_path": "/artists/531937",
+     "header_image_url": "https://images.genius.com/9779b0d6a07c220f26fb2697fd224816.302x302x1.jpg",
+     "id": 531937,
+     "image_url": "https://images.genius.com/9779b0d6a07c220f26fb2697fd224816.302x302x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Omen (Producer)",
+     "url": "https://genius.com/artists/Omen-producer"
+    },
+    {
+     "api_path": "/artists/27612",
+     "header_image_url": "https://images.genius.com/c999dd154986a45b8981323a2ea53f98.620x380x1.jpg",
+     "id": 27612,
+     "image_url": "https://images.genius.com/c999dd154986a45b8981323a2ea53f98.620x380x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "40",
+     "url": "https://genius.com/artists/40",
+     "iq": 537
+    },
+    {
+     "api_path": "/artists/12404",
+     "header_image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+     "id": 12404,
+     "image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Action Bronson",
+     "url": "https://genius.com/artists/Action-bronson",
+     "iq": 10469
+    }
+   ],
+   "artist": "Action Bronson",
+   "lyrics": "[Produced By: Noah \"40\" Shebib & Omen]\n\n[Intro]\nYeah, uh, opportunity be knockin', let a motherfucker in\n\n[Hook]\nOpportunity be knockin', you gotta let a motherfucker in\nI kiss my mother on the cheek, tell her that I love her\nYou ain't gotta worry 'bout a thing, I got it covered\nWhy you think I'm out here actin' crazy?\nWhy you think I'm out here actin' crazy?\nWhy you think I'm out here actin' crazy?\nMa, you know I'm still your little baby\n\n[Verse 1]\nAll my life I was a fuck-up, now I pull the truck up\nSame bitch stuck up, now she wanna suck us\nSee me hangin' out the window, screamin', \"What, what?!\"\nNo more tough luck, a different cloth is what I'm cut from\nBaby, oh, my lord\nThe cops chasin' Bronson in an all-white Ford\nShit, I'm on that all-night tour\nBitch, I'm alright, but I'm off that raw\nI'm in a robe dancin' salsa on the top floor\nYou would swear I'm Puerto Rican, but I'm not, lord\nHot hoes every city that we go, singin'\n\"Heads high, kill 'em with it now!\"\nUh, all I do is eat oysters\nAnd speak six languages in three voices\nIt's Adriatic Summers on a sail boat\nDon't even try to call, I'm not available for nothin'\nUnless it's stupid paper, hop out the Studebaker\nWith Anita Baker, uh\n[Hook]\nOpportunity be knockin', you gotta let a motherfucker in\nI kiss my mother on the cheek, tell her that I love her\nYou ain't gotta worry 'bout a thing, I got it covered\nWhy you think I'm out here actin' crazy?\nWhy you think I'm out here actin' crazy?\nWhy you think I'm out here actin' crazy?\nMa, you know I'm still your little baby\n\n[Verse 2]\nUh, I feel so alive, I think I shit myself\nI should kiss myself\nI'm starin' at the man inside the mirror\nThe reflection shows a wolf though (AOOOH!)\nGoddamn, I'm still cute, ho (Yeah)\nAll my women play the flute\nSaw me plate some melon and prosciutt'\nLeft handed, make the Fender cry\nCount money with a reverend's smile, the Devil's eye\nHalf-Cherokee and Gemini, uh\nMotherfuckers'll dump heat, from Jump Street\nAnd turn your chest plate to lunch meat\nI'm in a Humvee, lookin' like a young me\nNow these motherfuckers all wanna be chubby\nI switch the season, now the hair's curled\nTan skin, I need a bad girl\nCause James Brown said, \"It's A Man's World\"\nIn a Transam' Twirl, the burner handle made of pearl\nThat's just \"Daddy's Little Girl\"\n[Hook]\nOpportunity be knockin', you gotta let a motherfucker in\nI kiss my mother on the cheek, tell her that I love her\nYou ain't gotta worry 'bout a thing, I got it covered\nWhy you think I'm out here actin' crazy?\nWhy you think I'm out here actin' crazy?\nWhy you think I'm out here actin' crazy?\nMa, you know I'm still your little baby"
+  },
+  {
+   "annotation_count": 27,
+   "api_path": "/songs/484130",
+   "full_title": "Easy Rider by\u00a0Action\u00a0Bronson",
+   "header_image_thumbnail_url": "https://images.genius.com/3f40c65495de257e6acc2dabe3749b6b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3f40c65495de257e6acc2dabe3749b6b.800x800x1.jpg",
+   "id": 484130,
+   "lyrics_owner_id": 619014,
+   "lyrics_state": "complete",
+   "path": "/Action-bronson-easy-rider-lyrics",
+   "pyongs_count": 69,
+   "song_art_image_thumbnail_url": "https://images.genius.com/a88071bf645463714b311300e9d04c64.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a88071bf645463714b311300e9d04c64.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 21,
+    "contributors": 96,
+    "iq_earners": 95,
+    "transcribers": 3,
+    "unreviewed_annotations": 3,
+    "verified_annotations": 2,
+    "hot": false,
+    "pageviews": 159891
+   },
+   "title": "Easy Rider",
+   "title_with_featured": "Easy Rider",
+   "url": "https://genius.com/Action-bronson-easy-rider-lyrics",
+   "song_art_primary_color": "#cd9a3a",
+   "song_art_secondary_color": "#d6c6a0",
+   "song_art_text_color": "#000",
+   "primary_artist": {
+    "api_path": "/artists/12404",
+    "header_image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+    "id": 12404,
+    "image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Action Bronson",
+    "url": "https://genius.com/artists/Action-bronson",
+    "iq": 10469
+   },
+   "apple_music_id": "976879171",
+   "apple_music_player_url": "https://genius.com/songs/484130/apple_music_player",
+   "description": {
+    "plain": "\u201cEasy Rider\u201d is Action Bronson\u2019s tale of drugs, status, emotion, and the raw energy he now interprets his life to be, inspired by the 1969 adventure drama of the same name Easy Rider. The song perfectly combines the relaxed and eccentric vibes of the \u201cFlower Power Era\u201d with an exaggerated depiction of Bronson\u2019s past, present, and future. Capping the track, Curt Chambers plays a timeless guitar tribute to the great Jimi Hendrix as Bam Bam rides his Harley of possibility into the waning sunset of definite uncertainty."
+   },
+   "embed_content": "<div id='rg_embed_link_484130' class='rg_embed_link' data-song-id='484130'>Read <a href='https://genius.com/Action-bronson-easy-rider-lyrics'>\u201cEasy Rider\u201d by Action\u00a0Bronson</a> on Genius</div> <script crossorigin src='//genius.com/songs/484130/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "Party Supplies Sound & Design House",
+   "release_date": "2014-08-20",
+   "release_date_for_display": "August 20, 2014",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/108940",
+    "cover_art_url": "https://images.genius.com/3f40c65495de257e6acc2dabe3749b6b.800x800x1.jpg",
+    "full_title": "Mr. Wonderful by Action Bronson",
+    "id": 108940,
+    "name": "Mr. Wonderful",
+    "url": "https://genius.com/albums/Action-bronson/Mr-wonderful",
+    "artist": {
+     "api_path": "/artists/12404",
+     "header_image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+     "id": 12404,
+     "image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Action Bronson",
+     "url": "https://genius.com/artists/Action-bronson",
+     "iq": 10469
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/407659",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1622822553",
+       "id": 407659,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1622822553",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Justin Nealis",
+       "url": "https://genius.com/artists/Justin-nealis"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/641341",
+       "header_image_url": "https://images.genius.com/f883736541eabbfb08e6d079a720db9f.1000x535x1.jpg",
+       "id": 641341,
+       "image_url": "https://images.genius.com/d448111887d2b34267df1ca916335210.299x255x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dave Kutch",
+       "url": "https://genius.com/artists/Dave-kutch"
+      }
+     ]
+    },
+    {
+     "label": "Additional Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/514920",
+       "header_image_url": "https://images.genius.com/e2cb13979e1ba0c9719dcaefeb7c5365.171x171x1.jpg",
+       "id": 514920,
+       "image_url": "https://images.genius.com/e2cb13979e1ba0c9719dcaefeb7c5365.171x171x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Curt Chambers",
+       "url": "https://genius.com/artists/Curt-chambers"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/646122",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1622822553",
+       "id": 646122,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1622822553",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ryan West",
+       "url": "https://genius.com/artists/Ryan-west"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 619014,
+    "annotator_login": "47gc",
+    "api_path": "/referents/3604216",
+    "classification": "accepted",
+    "fragment": "Easy Rider",
+    "id": 3604216,
+    "is_description": true,
+    "path": "/3604216/Action-bronson-easy-rider/Easy-rider",
+    "range": {
+     "content": "Easy Rider"
+    },
+    "song_id": 484130,
+    "url": "https://genius.com/3604216/Action-bronson-easy-rider/Easy-rider",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/484130",
+     "client_timestamps": {
+      "updated_by_human_at": 1618757889,
+      "lyrics_updated_at": 1618757889
+     },
+     "context": "Action Bronson",
+     "id": 484130,
+     "image_url": "https://images.genius.com/a88071bf645463714b311300e9d04c64.640x640x1.jpg",
+     "link_title": "Easy Rider by\u00a0Action\u00a0Bronson",
+     "title": "Easy Rider",
+     "type": "Song",
+     "url": "https://genius.com/Action-bronson-easy-rider-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3604216",
+      "body": {
+       "plain": "\u201cEasy Rider\u201d is Action Bronson\u2019s tale of drugs, status, emotion, and the raw energy he now interprets his life to be, inspired by the 1969 adventure drama of the same name Easy Rider. The song perfectly combines the relaxed and eccentric vibes of the \u201cFlower Power Era\u201d with an exaggerated depiction of Bronson\u2019s past, present, and future. Capping the track, Curt Chambers plays a timeless guitar tribute to the great Jimi Hendrix as Bam Bam rides his Harley of possibility into the waning sunset of definite uncertainty."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3604216,
+      "pinned": false,
+      "share_url": "https://genius.com/3604216",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3604216/Action-bronson-easy-rider/Easy-rider",
+      "verified": false,
+      "votes_total": 27,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.5700934579439252,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1763840",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/9a2265df92432d4c2dbd3675e613fdd7",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/9a2265df92432d4c2dbd3675e613fdd7",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/9a2265df92432d4c2dbd3675e613fdd7",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/9a2265df92432d4c2dbd3675e613fdd7",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/9a2265df92432d4c2dbd3675e613fdd7",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1763840,
+         "iq": 1262,
+         "login": "J_Wavy97",
+         "name": "J_Wavy97",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/J_Wavy97",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.19626168224299065,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/127862",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/97fd2a04f49a3707f9efe1c76cd3b292",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/97fd2a04f49a3707f9efe1c76cd3b292",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/97fd2a04f49a3707f9efe1c76cd3b292",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/97fd2a04f49a3707f9efe1c76cd3b292",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/006697c6143f33d06ebbd245ff9d268d.1000x1000x1.jpg",
+         "human_readable_role_for_display": "Staff",
+         "id": 127862,
+         "iq": 540935,
+         "login": "Michael",
+         "name": "Michael Heal",
+         "role_for_display": "staff",
+         "url": "https://genius.com/Michael",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.06542056074766356,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/169810",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/ENjWJ2wMQPSzbkZXgNYA.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/ENjWJ2wMQPSzbkZXgNYA.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/ENjWJ2wMQPSzbkZXgNYA.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/ENjWJ2wMQPSzbkZXgNYA.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/ENjWJ2wMQPSzbkZXgNYA.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 169810,
+         "iq": 487,
+         "login": "logjammin",
+         "name": "logjammin",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/logjammin",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.056074766355140186,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/39610",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/25aab75526534ad72c749ac8af3e9053",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/25aab75526534ad72c749ac8af3e9053",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/25aab75526534ad72c749ac8af3e9053",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/25aab75526534ad72c749ac8af3e9053",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/7udijwmcnj4",
+         "human_readable_role_for_display": "Contributor",
+         "id": 39610,
+         "iq": 13203,
+         "login": "DOMWIZeArT87_oLAMBO",
+         "name": "DOMWIZeArT87_oLAMBO",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/DOMWIZeArT87_oLAMBO",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.04672897196261682,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/119539",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/31tSuHlFS5mP0ODFYgpM.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/31tSuHlFS5mP0ODFYgpM.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/31tSuHlFS5mP0ODFYgpM.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/31tSuHlFS5mP0ODFYgpM.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/31tSuHlFS5mP0ODFYgpM.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 119539,
+         "iq": 2053,
+         "login": "MC_Thesaurus",
+         "name": "MC_Thesaurus",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/MC_Thesaurus",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.037383177570093455,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/619014",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/501dcaf09b0ff73e3dd8e31837c25334",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/501dcaf09b0ff73e3dd8e31837c25334",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/501dcaf09b0ff73e3dd8e31837c25334",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/501dcaf09b0ff73e3dd8e31837c25334",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/501dcaf09b0ff73e3dd8e31837c25334",
+         "human_readable_role_for_display": "Contributor",
+         "id": 619014,
+         "iq": 30580,
+         "login": "47gc",
+         "name": "47gc",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/47gc",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.018691588785046728,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/389740",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/85a8e5393768f0f83c65026a432f3313",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/85a8e5393768f0f83c65026a432f3313",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/85a8e5393768f0f83c65026a432f3313",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/85a8e5393768f0f83c65026a432f3313",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/85a8e5393768f0f83c65026a432f3313",
+         "human_readable_role_for_display": "Moderator",
+         "id": 389740,
+         "iq": 1359506,
+         "login": "ewokABdevito",
+         "name": "EwokABdevito",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/ewokABdevito",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.009345794392523364,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/152858",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/BJmNPhqzSr6Z3eDlj9Go.png",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/BJmNPhqzSr6Z3eDlj9Go.png",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/BJmNPhqzSr6Z3eDlj9Go.png",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/BJmNPhqzSr6Z3eDlj9Go.png",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/BJmNPhqzSr6Z3eDlj9Go.png",
+         "human_readable_role_for_display": "Contributor",
+         "id": 152858,
+         "iq": 6479,
+         "login": "Docktor",
+         "name": "Docktor",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Docktor",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=58RSC7HO9aU"
+    },
+    {
+     "native_uri": "spotify:track:4AH8GJVosfrbfhe5NVTAnx",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/4AH8GJVosfrbfhe5NVTAnx"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/18277",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/party%20supplies_jpg_630x400_q85.jpg",
+     "id": 18277,
+     "image_url": "https://s3.amazonaws.com/rapgenius/party%20supplies_jpg_630x400_q85.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Party Supplies",
+     "url": "https://genius.com/artists/Party-supplies"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": [
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/2434308",
+       "full_title": "Ad\u0131m\u0131z Miskindir Bizim by\u00a0Athena (Ft.\u00a0Mazhar\u00a0Alanson)",
+       "header_image_thumbnail_url": "https://images.genius.com/542cd4135e028980a98b3cdee52ffda3.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/542cd4135e028980a98b3cdee52ffda3.640x640x1.jpg",
+       "id": 2434308,
+       "lyrics_owner_id": 1484653,
+       "lyrics_state": "complete",
+       "path": "/Athena-admz-miskindir-bizim-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/542cd4135e028980a98b3cdee52ffda3.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/542cd4135e028980a98b3cdee52ffda3.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 14131
+       },
+       "title": "Ad\u0131m\u0131z Miskindir Bizim",
+       "title_with_featured": "Ad\u0131m\u0131z Miskindir Bizim (Ft.\u00a0Mazhar\u00a0Alanson)",
+       "url": "https://genius.com/Athena-admz-miskindir-bizim-lyrics",
+       "song_art_primary_color": "#44918c",
+       "song_art_secondary_color": "#196472",
+       "song_art_text_color": "#fff",
+       "primary_artist": {
+        "api_path": "/artists/213754",
+        "header_image_url": "https://images.genius.com/29c0ae054906caee693c619e5a2541b0.960x521x1.jpg",
+        "id": 213754,
+        "image_url": "https://images.genius.com/214f63d3166531410922c968088ae66d.600x600x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Athena",
+        "url": "https://genius.com/artists/Athena"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 34,
+       "api_path": "/songs/2412192",
+       "full_title": "Tag the Tongue by\u00a0Cyanide\u00a0and Silicone",
+       "header_image_thumbnail_url": "https://images.genius.com/5b5feddedd5fadaf55b5e278417f031d.269x269x1.jpg",
+       "header_image_url": "https://images.genius.com/5b5feddedd5fadaf55b5e278417f031d.269x269x1.jpg",
+       "id": 2412192,
+       "lyrics_owner_id": 1386025,
+       "lyrics_state": "complete",
+       "path": "/Cyanide-and-silicone-tag-the-tongue-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/5b5feddedd5fadaf55b5e278417f031d.269x269x1.jpg",
+       "song_art_image_url": "https://images.genius.com/5b5feddedd5fadaf55b5e278417f031d.269x269x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Tag the Tongue",
+       "title_with_featured": "Tag the Tongue",
+       "url": "https://genius.com/Cyanide-and-silicone-tag-the-tongue-lyrics",
+       "song_art_primary_color": "#edf43f",
+       "song_art_secondary_color": "#e6e755",
+       "song_art_text_color": "#000",
+       "primary_artist": {
+        "api_path": "/artists/550998",
+        "header_image_url": "https://images.genius.com/1f8ba6eb7f352b044625eea2ffb23aa3.570x582x1.jpg",
+        "id": 550998,
+        "image_url": "https://images.genius.com/181eaf151442cae97af65e1b97e1d295.360x360x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Cyanide and Silicone",
+        "url": "https://genius.com/artists/Cyanide-and-silicone"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6623611",
+       "full_title": "Easy Rider (Ric Maye Remix) by\u00a0Action\u00a0Bronson",
+       "header_image_thumbnail_url": "https://images.genius.com/3e6fbcde5484793a3015b8b329b031b8.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/3e6fbcde5484793a3015b8b329b031b8.700x700x1.jpg",
+       "id": 6623611,
+       "lyrics_owner_id": 321054,
+       "lyrics_state": "complete",
+       "path": "/Action-bronson-easy-rider-ric-maye-remix-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/3e6fbcde5484793a3015b8b329b031b8.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3e6fbcde5484793a3015b8b329b031b8.700x700x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Easy Rider (Ric Maye Remix)",
+       "title_with_featured": "Easy Rider (Ric Maye Remix)",
+       "url": "https://genius.com/Action-bronson-easy-rider-ric-maye-remix-lyrics",
+       "song_art_primary_color": "#f90404",
+       "song_art_secondary_color": "#7f1616",
+       "song_art_text_color": "#fff",
+       "primary_artist": {
+        "api_path": "/artists/12404",
+        "header_image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+        "id": 12404,
+        "image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Action Bronson",
+        "url": "https://genius.com/artists/Action-bronson",
+        "iq": 10469
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/91399",
+     "avatar": {
+      "tiny": {
+       "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/91399_actionbronson.jpg",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358290052_91399_actionbronson.jpg",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358290053_91399_actionbronson.jpg",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358290052_91399_actionbronson.jpg",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358290052_91399_actionbronson.jpg",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 91399,
+     "iq": 10469,
+     "login": "ActionBronson",
+     "name": "Action Bronson",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/ActionBronson",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations"
+     ],
+     "artist": {
+      "api_path": "/artists/12404",
+      "header_image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+      "id": 12404,
+      "image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Action Bronson",
+      "url": "https://genius.com/artists/Action-bronson",
+      "iq": 10469
+     },
+     "user": {
+      "api_path": "/users/91399",
+      "avatar": {
+       "tiny": {
+        "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/91399_actionbronson.jpg",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358290052_91399_actionbronson.jpg",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358290053_91399_actionbronson.jpg",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358290052_91399_actionbronson.jpg",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358290052_91399_actionbronson.jpg",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 91399,
+      "iq": 10469,
+      "login": "ActionBronson",
+      "name": "Action Bronson",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/ActionBronson",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/646145",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1622822553",
+     "id": 646145,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1622822553",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Zafer Hakansoy",
+     "url": "https://genius.com/artists/Zafer-hakansoy"
+    },
+    {
+     "api_path": "/artists/350080",
+     "header_image_url": "https://images.genius.com/421a0ac8a1a8b5422f0bb05e2bd1fcdc.1000x563x1.jpg",
+     "id": 350080,
+     "image_url": "https://images.genius.com/1e2fc0a926d70e5d46234f964cfa38b5.720x720x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mazhar Alanson",
+     "url": "https://genius.com/artists/Mazhar-alanson"
+    },
+    {
+     "api_path": "/artists/18277",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/party%20supplies_jpg_630x400_q85.jpg",
+     "id": 18277,
+     "image_url": "https://s3.amazonaws.com/rapgenius/party%20supplies_jpg_630x400_q85.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Party Supplies",
+     "url": "https://genius.com/artists/Party-supplies"
+    },
+    {
+     "api_path": "/artists/12404",
+     "header_image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+     "id": 12404,
+     "image_url": "https://images.genius.com/4c92d833aae01e64b71a556bb1cb9f0b.990x660x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Action Bronson",
+     "url": "https://genius.com/artists/Action-bronson",
+     "iq": 10469
+    }
+   ],
+   "artist": "Action Bronson",
+   "lyrics": "[Produced By: Party Supplies]\n[Verse 1]\nPraise the lord, I was born to drive boat\nFeeling like Slash in front of the chapel\nI'm leaned back with the Les Paul\nShit I smoke is like cholesterol\nSpilled dressin' on the vest at the festival\nThe best of all, had a midget Puerto Rican at my beck and call\nBest believe that there was neck involved\nFucked around and almost wrecked the Saab\nUh, we took acid for ten days straight up in the mountains\nStarted running with the stallions\nPlaying frisbee in the West Indies, did the tango with my kidneys\nEyes open, now I know just who my kids need\nRockin' very loose pants, yeah\nRockin' very loose pants, yeah\nBuried a million in the sand, by the clock tower\nBefore I die, take a hot shower\n\n[Hook 1]\nRide the Harley into the sunset\nRide the Harley into the sunset\n\nRide the Harley into the sunset\nRide the Harley into the sunset\n[Verse 2]\nBy chance I seen her in the lobby of the Ritz\nWith her man, the one that swings a hockey stick\nI was wearing all white, and my hair was looking precious\nShit, I might cop a chest and a dresser\nA little machine to make espresso\nI heard your bitch still wears Ecko\nHide drugs behind the box of De Cecco\nLive from the Expo, it's me\nI wear the wolf in the winter, steer the coupe from the center\nWho gives a fuck, I'm a sinner\nI had dreams of fuckin' Keri Hilson in my Duncans\nWoke up naked at the Hilton with a bitch that look like Seal's cousin\nBite the eel by the dozen (Got to take it for the team)\nBite the eel by the dozen\n\n[Verse 3]\nPump the bass in the trunk, shit rattled like a baby hand\nExcept this toy cost 80 grand\nAnd I'm crazy tan, from all the places that I've been\nJust from writing words with a pen\nTell the pilot \"Land the plane,\" on Roosevelt and Main\nPut a jacuzzi on the seven train\nAnd lay John Coltrane play with that cocaine face\nI know your crabs from that Old Bay taste\nThe brass band was seven pieces, my bitch's name is Peaches\nWe got twin MAC-11s with the features\nShit you barely got sneaker money\nSo much dick in their mouths, that's why these motherfuckers speaking funny\nYou need to speak clearer dear, 'cause I can't hear ya\n(I can't hear ya)\nYou need to speak clearer dear, 'cause I can't hear ya\n[Verse 4]\nThe Magic Johnson of the game\nThese lames don't want to play with me\nSmile on your face, but I really know you hatin' me\nI know you mad, cause I'm sick, and it's plain to see\nIt's me\n\n[Hook 2]\nRide the Harley into the sunset\nRide the Harley into the sunset\nRide the Harley into the sunset\nRide the Harley into the sunset\nRide the Harley into the sunset\nRide the Harley into the sunset\n\n[Guitar Outro: Curt Chambers]"
+  }
+ ]
+}
