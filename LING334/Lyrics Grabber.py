@@ -16,14 +16,17 @@ client_access_token ='tJEazB1jCEgPTCgXkkqHgvgBJG-vTEdFJfCg0l0SpSSbwBO-TKqRiibvhs
 #artist = genius.search_artist('Action Bronson',max_songs = 1)
 #artist.save_lyrics()
 # white_rappers = ['Eminem','Beastie Boys','Yelawolf','Mac Miller','G-Easy','Macklemore','Machine Gun Kelly','Lil Dicky','Action Bronson', 'NF','Mike Shinoda','House of Pain','R.A. The Rugged Man'] 
-# white_rappers2 = ['Rittz' ,'Brother Ali' ,'Everlast', 'Token','Kid Rock', 'Paul Wall','Post Malone','Weird Al Yankovic','Vinnie Paz','Hoodie Allen' ,'Asher Roth' ]
+#white_rappers2 = ['Rittz' ,'Brother Ali' ,'Everlast', 'Token','Kid Rock', 'Paul Wall','Post Malone','Weird Al Yankovic','Vinnie Paz','Hoodie Allen' ,'Asher Roth' ]
 
 # black_rappers3 = ['Ice cube','Nas','Kendrick Lamar','2pac','The Notorious B.I.G.','J. Cole','Snoop Dogg','Lil Wayne','Jay-Z','Kayne West','Gucci Mane','50 Cent','Eazy-E','MF DOOM','Travis Scott']
 # black_rappers2 = ['Kid Cudi','ASAP Rocky','Nicki Minaj','DMX','Tyler, The Creator','Childish Gambino','Logic','Nate Dogg','Joey Bada$$']
 
+
+white_rappers = ['Eminem','Beastie Boys','Yelawolf','Mac Miller','G-Easy','Macklemore','Machine Gun Kelly','Lil Dicky','Action Bronson', 'NF','Mike Shinoda','House of Pain','R.A. The Rugged Man','Rittz' ,'Brother Ali' ,'Everlast', 'Token','Kid Rock', 'Paul Wall','Post Malone','Weird Al Yankovic','Vinnie Paz','Hoodie Allen' ,'Asher Roth' ]
+
 black_rappers = ['Nate Dogg','Snoop Dogg','Ice cube','Nas','Kendrick Lamar','2pac','J. Cole','Lil Wayne','Jay-Z','Kayne West','Gucci Mane','50 Cent','Eazy-E','MF DOOM','Travis Scott','Kid Cudi','ASAP Rocky','Nicki Minaj','DMX','Tyler, The Creator','Childish Gambino','Logic','Joey Bada$$']
 
-artist_list = ['Ice cube','Nas','Kendrick Lamar','2pac','The Notorious B.I.G.']
+artist_list = ['Ice cube','Nas','Kendrick Lamar']
 num_songs = 10
 
 songs = genius.search_songs('Baby Blue')
@@ -69,11 +72,15 @@ def lyric_grabber(artist,numsongs):
 TOTAL_SONG_LIST = []
 
 class Song:
-    def __init__(self,year,race,lyrics):
+    def __init__(self,name,year,race,lyrics):
         self.year = year
         self.race = race
         self.lyrics = lyrics
-    
+        self.name = name
+    def cleanup(self):
+        self.lyrics = self.lyrics.replace("("," ")
+        self.lyrics = self.lyrics.replace(")"," ")
+        self.lyrics = re.sub("[\r\n]|\[.*\]","",self.lyrics)
     def line_ize(self):
         #print(self.lyrics)
         self.lyrics = self.lyrics.replace("("," ")
@@ -104,9 +111,11 @@ def lyric_grabber2(artistname,numsongs,race):
         lyric_list = []
         for i in range(0,numsongs):
             date = re.split("-",json_obj['songs'][i]['release_date'])
+            name = json_obj['name']
             lYrics = json_obj['songs'][i]['lyrics']
             #print(lYrics)
-            newsong = Song(date[0],race,lYrics)
+            newsong = Song(name,date[0],race,lYrics)
+            #newsong.cleanup()
             newsong.line_ize()
             TOTAL_SONG_LIST.append(newsong)
         print("added all "+str(numsongs)+" "+str(artistname)+" songs to the master list")
@@ -135,9 +144,9 @@ def CSV_Saver(songlist,title):
             var = line.replace('\u200b','')
             var = line.replace('\u0435','')
             
-            listhing = [song.race,song.year,var]
-            biglist.append(listhing)
-    with open('100songs2.json', 'w',encoding="utf-8") as f:
+        listhing = [song.name,song.race,song.year,song.lyrics]
+        biglist.append(listhing)
+    with open('Per_Song.json', 'w',encoding="utf-8") as f:
         json.dump(biglist, f)
 
 
@@ -147,20 +156,11 @@ def CSV_Saver(songlist,title):
     #        fmt ='% s')
 
     
-# artist_runner(black_rappers,2)
-# CSV_Saver(TOTAL_SONG_LIST,"B1.csv")
-# TOTAL_SONG_LIST = []
-# artist_runner(black_rappers2,2)
-# CSV_Saver(TOTAL_SONG_LIST,"B2.csv")
-# TOTAL_SONG_LIST = []
-# artist_runner(white_rappers,2)
-# CSV_Saver(TOTAL_SONG_LIST,"W1.csv")
-# TOTAL_SONG_LIST = []
-# artist_runner(white_rappers2,2)
-# CSV_Saver(TOTAL_SONG_LIST,"W2.csv")
-# TOTAL_SONG_LIST = []
 
-artist_runner(black_rappers,2)
+
+#artist_runner(artist_list,3)
+artist_runner(white_rappers,5)
+artist_runner(black_rappers,5)
 CSV_Saver(TOTAL_SONG_LIST,"Test.csv")
 
 #artist_runner(black_rappers,2)
